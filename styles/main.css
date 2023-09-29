@@ -189,7 +189,8 @@ footer{
 */
 
 @media (max-width: 480px) {
-
+  .hidden-on-lg
+  .hidden-on-sm
 }
 
 /* 
